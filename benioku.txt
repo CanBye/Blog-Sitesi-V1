@@ -1,0 +1,33 @@
+Beni Oku
+
+Blog Sitesi V1
+
+LB Software tarafından geliştirilmiştir.
+
+----------------------------------------------
+
+Kurulum Talimatları
+
+HTML Dosyaları: Gerekli tüm HTML dosyaları proje dizininde bulunmaktadır.
+
+Görseller: static/images klasörüne resimlerinizi ekleyin.
+
+Arka Plan Videosu: static/backgroundvideo klasörüne MP4 formatındaki müzik dosyalarınızı ekleyin.
+
+----------------------------------------------
+
+Geliştirici Bilgileri
+
+Geliştirici: CanBye , SwagMevsazi
+
+Şirket: LB Software
+
+Sürüm: V1
+
+Tüm hakları saklıdır. © 2019-2025 LB Software
+
+---------------------------------------------
+
+Önemli Not
+
+Lütfen bu projeyi başkalarıyla paylaşmayın. İyilik yapın, arkadaşlarınızı davet edin ve onların da bu projeden yararlanmasını sağlayın! 😊
